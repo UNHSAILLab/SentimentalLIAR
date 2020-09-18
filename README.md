@@ -3,24 +3,24 @@ Our Sentimental LIAR dataset is a modified and further extended version of the L
 
 Sample Data from the Dataset
 
-statement="McCain opposed a requirement that the government buy American-made motorcycles. And he said all buy-American provisions were quote ’disgraceful.’ "
-subject: federal-budget
-speaker id: 2
-speaker job: President
-state info: Illinois
-party affiliation: democrat
-sentiment: NEGATIVE
-anger: 0.1353
-disgust: 0.8253
-sad: 0.1419
-fear: 0.0157
-joy: 0.0236
-barely true counts: 70
-false counts: 71
-half true counts: 160
-mostly true counts: 163
-pants on fire counts: 9
-SEN sentiment score: -0.7
+statement="McCain opposed a requirement that the government buy American-made motorcycles. And he said all buy-American provisions were quote ’disgraceful.’ "  
+subject: federal-budget  
+speaker id: 2  
+speaker job: President  
+state info: Illinois  
+party affiliation: democrat  
+sentiment: NEGATIVE  
+anger: 0.1353  
+disgust: 0.8253  
+sad: 0.1419  
+fear: 0.0157  
+joy: 0.0236  
+barely true counts: 70  
+false counts: 71  
+half true counts: 160  
+mostly true counts: 163  
+pants on fire counts: 9  
+SEN sentiment score: -0.7  
 
 
 
