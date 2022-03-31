@@ -23,7 +23,7 @@ SEN sentiment score: -0.7
 
 
 This repository contains the dataset for this paper: https://arxiv.org/abs/2009.01047
-
+\cite{
 @inproceedings{upadhayay2020sentimental,
   title={Sentimental LIAR: Extended Corpus and Deep Learning Models for Fake Claim Classification},
   author={Upadhayay, Bibek and Behzadan, Vahid},
@@ -31,4 +31,5 @@ This repository contains the dataset for this paper: https://arxiv.org/abs/2009.
   pages={1--6},
   year={2020},
   organization={IEEE}
+}
 }
